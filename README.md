@@ -9,7 +9,7 @@ Sou Analista de Dados apaixonado por transformar dados em decisões.
 ---
 
 ## 🚀 Sobre mim
-- 📊 Trabalho com BI, ETL e Data Analytics  
+- 📊 Trabalho com BI, ETL, API's e Data Analytics  
 - 🐍 Python | SQL | Power BI  
 - ☁️ Databricks | BigQuery  
 
