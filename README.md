@@ -25,6 +25,7 @@ Sou Analista de Dados apaixonado por transformar dados em decisões.
 ---
 
 ## 📌 Projetos em destaque
+- 📈 Home Credit Default Risk - Melhora da Concessão de Crédito via Modelos Estatísticos e Estudos
 - 📊 Case Técnico(Prática real) — Pipeline de dados
 - 🏥 Análise de Vendas(ETL+PowerBI+Figma)
 - 📈 Desenvolvimento e consumo de API's
